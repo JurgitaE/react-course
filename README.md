@@ -1,4 +1,4 @@
-# expense-app
+# React-Course
 
 This project was made by following tutorial [React - The Complete Guide incl Hooks, React Router, Redux](https://www.udemy.com/course/react-the-complete-guide-incl-redux).
 
